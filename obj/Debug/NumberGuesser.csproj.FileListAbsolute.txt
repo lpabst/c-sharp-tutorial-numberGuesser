@@ -1,0 +1,7 @@
+C:\Users\loren.pabst\Desktop\dev_my_work\c#\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\loren.pabst\Desktop\dev_my_work\c#\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\loren.pabst\Desktop\dev_my_work\c#\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\loren.pabst\Desktop\dev_my_work\c#\NumberGuesser\obj\Debug\NumberGuesser.csprojResolveAssemblyReference.cache
+C:\Users\loren.pabst\Desktop\dev_my_work\c#\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\loren.pabst\Desktop\dev_my_work\c#\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\loren.pabst\Desktop\dev_my_work\c#\NumberGuesser\obj\Debug\NumberGuesser.pdb
